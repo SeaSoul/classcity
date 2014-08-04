@@ -1,0 +1,19 @@
+{
+    "name": "seasoul/phpcave",
+    "description": "projectcity",
+    "license": "none",
+    "authors": [
+        {
+            "name": "SeaSoul",
+            "email": "SeaSoul1984@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+	
+	"autoload": {
+		"psr-4": {"Seasoul\\Phpcave\\Projectcity\\": "src/"}
+	}
+}
